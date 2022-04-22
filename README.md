@@ -28,7 +28,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/asamoahe3/figmalandui-header-a](https://github.com/asamoahe3/figmalandui-header-a)
-- Live Site URL: [https://nakoyawilson.github.io/intro-section-with-dropdown-navigation/](https://nakoyawilson.github.io/intro-section-with-dropdown-navigation/)
+- Live Site URL: [https://stunning-headers-a.netlify.app/](https://stunning-headers-a.netlify.app/)
 
 ## My process
 

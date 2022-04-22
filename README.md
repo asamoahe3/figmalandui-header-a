@@ -1,6 +1,6 @@
 # Landing page headers - Header (1)
 
-This is a solution to the [Figmaland Headers UI design - Hero(1)](https://www.frontendmentor.io/challenges/intro-section-with-dropdown-navigation-ryaPetHE5).
+This is a solution to the [Figmaland Headers UI design - Hero(1)](https://freedesignresources.net/free-stunning-figma-headers-ui-kit/).
 ## Table of contents
 
 - [Overview](#overview)
@@ -42,5 +42,6 @@ Users should be able to:
 ## Author
 
 - Frontend Mentor - [@asamoahe3](https://www.frontendmentor.io/profile/asamoahe3)
+- Designed By - [Belakhdar Raouf]()
 
 

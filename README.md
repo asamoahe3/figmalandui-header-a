@@ -37,6 +37,7 @@ Users should be able to:
 - HTML
 - CSS
 - Figma design file
+- Wave accessibility tool (Chrome extension)
 
 
 ## Author

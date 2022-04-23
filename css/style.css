@@ -95,7 +95,7 @@ body {
   transition: all 0.3s ease-in-out;
   cursor: pointer;
   -webkit-animation: shake-bottom 0.8s ease-in-out;
-   animation: shake-bottom 0.8s ease-in-out;
+  animation: shake-bottom 0.8s ease-in-out;
 }
 
 /** Hero content*/
@@ -130,8 +130,9 @@ body {
   background-color: var(--brand-primary);
   border-radius: var(--button-radius);
   box-shadow: var(--boxshadow);
-  filter: contrast(1);
   padding: 1.3rem 4rem;
+  display: inline-block;
+  filter: contrast(1);
   position: relative;
   cursor: pointer;
   color: #fff;

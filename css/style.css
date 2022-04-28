@@ -11,8 +11,8 @@
   /** font component*/
   --font-weight-100: 400;
   --font-weight-200: 700;
-  --font-size-100: 16px;
-  --font-size-200: 55px;
+  --font-size-100: 1rem;
+  --font-size-200: 3.5rem;
   --font-lineheigt-1: 24px;
   --font-lineheight-3: 26px;
 }
@@ -145,7 +145,7 @@ body {
   background-repeat: no-repeat;
   background-position: bottom;
   width: 100%;
-  height: 100vh;
+  min-height: 100vh;
   position: absolute;
   top: 32rem;
 }
@@ -164,7 +164,7 @@ body {
   background-repeat: no-repeat;
   content: "";
   width: 80%;
-  height: 100vh;
+  min-height: 100vh;
   position: absolute;
   top: -10.5em;
   left: 10rem;
@@ -238,7 +238,7 @@ body {
     background-position: bottom;
     background-size: cover;
     top: 47rem;
-    height: 45vh;
+    min-height: 45vh;
   }
 
   .hero__illustration .inner {
@@ -282,7 +282,7 @@ body {
     background-position: bottom;
     background-size: cover;
     top: 45rem;
-    height: 50vh;
+    min-height: 50vh;
   }
 
   .hero__illustration .inner::before {
